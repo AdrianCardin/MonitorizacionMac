@@ -1,7 +1,7 @@
 # Monitorización
 
 App de macOS para vigilar la temperatura y el esfuerzo del Mac, pensada para
-sesiones de juego o de inferencia de modelos de IA en local.
+registrar esfuerzos del dispositivo en local.
 
 Abrir `Monitorizacion/Monitorizacion.xcodeproj` y ejecutar.
 
